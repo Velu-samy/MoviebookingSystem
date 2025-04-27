@@ -1,26 +1,25 @@
+# **Movie Booking System**
 
-
-Movie Booking System
-
-Overview
+## **Overview**
 A Java-based application to book movie tickets and manage movie listings. Includes user and admin functionalities, with a MySQL database backend.
 
 ---
 
-Feature
+## **Features**
 - **Users:** View and book movie tickets.  
 - **Admins:** Add, update, or remove movies and manage bookings.  
 
 ---
 
-Technologies
+## **Technologies**
 - **Programming:** Java  
 - **Database:** MySQL  
 - **IDE:** Eclipse  
 - **Libraries:** JDBC  
 
- 
- **Setup Instructions**
+---
+
+## **Setup Instructions**
 1. Install **Java JDK**, **MySQL**, and **Eclipse IDE**.  
 2. Clone the repository:  
    ```bash
@@ -37,3 +36,4 @@ Technologies
 - Develop a web or mobile interface.  
 
 ---
+
